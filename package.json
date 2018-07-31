@@ -1,0 +1,19 @@
+{
+	"name": "emaily",
+	"version": "1.0.0",
+	"description": "",
+	"main": "server/index.js",
+	"engines": {
+		"node": "10.7.0",
+		"npm": "6.1.0"
+	},
+	"scripts": {
+		"start": "node index.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"express": "^4.16.3"
+	}
+}
